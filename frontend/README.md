@@ -1,1 +1,7 @@
-# Your frontend live here
+# Azure Resume
+My own azure resume,
+
+## First steps
+
+    -Frontend folder contains the website.
+    -main.js contains visitor counter code.
